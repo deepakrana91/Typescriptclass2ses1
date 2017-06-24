@@ -1,0 +1,1 @@
+# Typescriptclass2ses1
